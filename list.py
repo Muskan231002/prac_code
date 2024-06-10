@@ -1,0 +1,10 @@
+musk=[1,2,3,4,5]
+'''musk.append(10)
+musk.reverse()
+musk.sort()
+j=musk.index(4)
+m=musk.copy()
+m.append(76)'''
+musk.insert(1,3000)
+an=[8,9,7,6]
+print(musk+an)
